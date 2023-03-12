@@ -1,10 +1,8 @@
 import React from "react";
 
-
-
 const Home = () => {
     return <div>
-        <h1 class="text-center fw-bolder m-1 p-1 display-3">James Robert</h1>
+        <h1 class="text-center fw-bolder m-1 p-1 display-3">James Sutcliffe</h1>
         <h3 class="text-center m-1 p-1">Full-Stack Developer</h3>
         <div class="container">
             <div class="row">
