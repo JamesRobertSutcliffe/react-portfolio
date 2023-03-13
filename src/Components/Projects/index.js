@@ -6,7 +6,7 @@ import projectData from "./../../projectData.json"
 const Projects = () => {
 
     return (
-        <div class="container mt-2">
+        <div class="container mt-2 min-vh-100 d-flex align-items-center">
             <div class="row">
                 {projectData.map(item => {
                     return <Project name={item.name}

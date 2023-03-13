@@ -25,5 +25,32 @@
             "CSS"
         ],
         "image": "https://i.ibb.co/88ggXbJ/team.png"
+    },
+    {
+        "name": "The Movie Database",
+        "stack": [
+            "jQuery",
+            "HTML",
+            "CSS"
+        ],
+        "image": "https://i.ibb.co/cvstjhL/film.png"
+    },
+    {
+        "name": "Weather App",
+        "stack": [
+            "Javascript",
+            "HTML",
+            "CSS"
+        ],
+        "image": "https://i.ibb.co/sK02Mvh/weather.png"
+    },
+    {
+        "name": "Team Profile Builder",
+        "stack": [
+            "Node.js",
+            "HTML",
+            "CSS"
+        ],
+        "image": "https://i.ibb.co/88ggXbJ/team.png"
     }
 ]
