@@ -1,9 +1,9 @@
-.tool-img {
-    height: 120px;
+.icon {
+    height: 80px;
     filter: grayscale(40%);
 }
 
-.tool-img:hover {
+.icon:hover {
     filter: grayscale(0%);
     scale: 110%;
 }
